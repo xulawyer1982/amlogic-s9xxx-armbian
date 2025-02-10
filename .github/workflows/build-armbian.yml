@@ -236,7 +236,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - xulawyer
 
 env:
   TZ: America/New_York
